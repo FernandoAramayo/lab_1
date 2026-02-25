@@ -36,8 +36,6 @@ def valores_unicos():
     unicos = list(set(lista))
     print("Valores únicos:", unicos)
 
-
-# Llamado directo de funciones
 add_numeros()
 invertir_numero()
 informacion_usuario()
